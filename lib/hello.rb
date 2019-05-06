@@ -7,3 +7,4 @@ def hello_t(array)
   end
 end
 
+["Tim", "Tom", "Jim"]
